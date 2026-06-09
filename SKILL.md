@@ -20,5 +20,4 @@ All the Just commands for this project are defined in the `Justfile` at the proj
 
 ## Guidelines
 
-- *All* important development commands have already been included in the `Justfile`. You should *always* prioritize using commands defined in the `Justfile` via `just <command>`.
-
+- _All_ important development commands have already been included in the `Justfile`. You should _always_ prioritize using commands defined in the `Justfile` via `just <command>`.
