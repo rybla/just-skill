@@ -12,12 +12,8 @@ All the Just commands for this project are defined in the `Justfile` at the proj
 
 - List all commands: `just --list`
 - Run a command: `just <command>`
-- Common commands for this project:
-  - Run all code validations: `just validate`
-  - Build project: `just build`
-  - Start a local development server: `just dev`
 - Read the `Justfile` at the root of the project to see the definitions of all commands
 
 ## Guidelines
 
-- _All_ important development commands have already been included in the `Justfile`. You should _always_ prioritize using commands defined in the `Justfile` via `just <command>`.
+- *All* important development commands have already been included in the `Justfile`. You should *always* prioritize using commands defined in the `Justfile` via `just <command>`.
