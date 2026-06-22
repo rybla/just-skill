@@ -1,5 +1,5 @@
 ---
-name: just
+name: just-skill
 description: Guide for using the Just command runner.
 ---
 
